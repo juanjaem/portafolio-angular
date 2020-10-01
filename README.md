@@ -1,27 +1,28 @@
-# Portafolio
+# WebApp con Angular...
+### ... del curso [Convierte cualquier template HTML en una WebAPP](https://www.udemy.com/share/101qNqBUodc1dTRnw=/) de Fernando Herrera
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
+### Descripción
 
-## Development server
+ Este curso se enfoca en enseñar como convertir una plantilla HTML a una aplicación de Angular, usando Firebase como backend, desplegando el sitio web en GitHub Pages y utilizando Git como repositorio.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+ El curso tiene como objetivo ayudarte en tu conocimiento de Angular, Firebase y otras herramientas que pueden interesarte mucho.
 
-## Code scaffolding
+#### Temas puntuales a tratar:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Componentes en Angular
 
-## Build
+- Rutas utilizando módulos
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+- Generar aplicación de producción
 
-## Running unit tests
+- Firebase REST API
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- Git y GitHub
 
-## Running end-to-end tests
+- Servicios de Angular
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+- Convertir un template HTML en una aplicación de Angular
 
-## Further help
+- Y mucho más
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+El objetivo final es crear y desplegar la página web que creamos a un sitio web real, adquiriendo el conocimiento necesario para poder trabajar con confianza temas que no están hecho nativamente para el Framework de Angular.
